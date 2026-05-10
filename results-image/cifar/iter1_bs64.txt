@@ -1,0 +1,4 @@
+number 0.8854166666666666
+mse score tensor(0.00212177)
+PSNR score tensor(29.34698486)
+Attack time 0.3983747164408366
